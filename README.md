@@ -13,7 +13,7 @@
 
 ## :wave: Introduction
 
-This repository is a place to publish reports on technical projects funded by the Polkadot and Kusama [Treasury](https://wiki.polkadot.network/docs/learn-treasury). The goal is to establish a transparent and objective reporting system that helps the community to make educated decisions about these projects and their progress. It’s based on the [Grant Milestone Delivery repository](https://github.com/w3f/Grant-Milestone-Delivery). It’s encouraged to publish the reports not only as part of the repository but also on various community sides. However, Git helps to work together on the reports in a fully transparent way that let you easily track all the changes and edits.  
+This repository is a place to publish reports on **technical projects funded by the Polkadot and Kusama [Treasury](https://wiki.polkadot.network/docs/learn-treasury)**. The goal is to establish a transparent and objective reporting system that helps the community to make educated decisions about these projects and their progress. It’s based on the [Grant Milestone Delivery repository](https://github.com/w3f/Grant-Milestone-Delivery). It’s encouraged to publish the reports not only as part of the repository but also on various community sides. However, Git helps to work together on the reports in a fully transparent way that let you easily track all the changes and edits.  
 
 ## :pencil: Guidelines
 
@@ -24,6 +24,12 @@ Reports need to:
 - list all promised deliveries
 
 ## :mailbox\_with\_mail: Contribute
+
+   1. [Fork](https://github.com/w3f/Grant-Milestone-Delivery/fork) this repository.
+   2. In the newly created fork, create a copy of the milestone delivery template ([`report-template`](reports/report-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/w3f/Grant-Milestone-Delivery/master/deliveries/milestone-delivery-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**. 
+   5. Fill out the template with the details of your report, including all deliverables as listed in the treasury proposal.
+   4. Name the file `project_name-your_name.md` 
+   5. Create a pull request and fill out the comment template.
 
 ## :bulb: Help
 
