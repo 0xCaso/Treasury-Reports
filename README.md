@@ -13,7 +13,9 @@
 
 ## :wave: Introduction
 
-This repository is a place to publish reports on **technical projects funded by the Polkadot and Kusama [Treasury](https://wiki.polkadot.network/docs/learn-treasury)**. The goal is to establish a transparent and objective reporting system that helps the community to make educated decisions about these projects and their progress. It’s based on the [Grant Milestone Delivery repository](https://github.com/w3f/Grant-Milestone-Delivery). It’s encouraged to publish the reports not only as part of the repository but also on various community sides. However, Git helps to work together on the reports in a fully transparent way that let you easily track all the changes and edits.  
+This repository is a place to publish reports on **technical projects funded by the Polkadot and Kusama [Treasury](https://wiki.polkadot.network/docs/learn-treasury)**. The goal is to establish a transparent and objective reporting system that helps the community to make educated decisions about these projects and their progress.
+
+ The repo is based on the [Grant Milestone Delivery repository](https://github.com/w3f/Grant-Milestone-Delivery) and it’s encouraged to publish the reports not only as part of the repository but also on various community sides. However, Git helps to work together on the reports in a fully transparent way that let you easily track all the changes and edits.  
 
 ## :pencil: Guidelines
 
