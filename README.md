@@ -1,11 +1,11 @@
 # W3F Treasury Reports [WIP] <!-- omit in toc -->
 
-> **:loudspeaker:** This repository is only for reports about public projects that *aren't* funded via the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program). You can find the evaluations of the grant projects [here](https://github.com/w3f/Grant-Milestone-Delivery). 
+> **:loudspeaker:** This repository is only for reports about public projects that *are* funded via the [Treasury](https://wiki.polkadot.network/docs/learn-treasury). You can find the evaluations of the grant projects [here](https://github.com/w3f/Grant-Milestone-Delivery). 
 
 ---
 
 - [:wave: Introduction](#wave-introduction)
-- [:pencil:Guidelines](#pencil-guidelines)
+- [:pencil: Guidelines](#pencil-guidelines)
 - [:mailbox\_with\_mail: Contribute](#mailbox_with_mail-contribute)
 - [:bulb: Help](#bulb-help)
   - [Additional information](#additional-information)
@@ -17,7 +17,11 @@ This repository is a place to publish reports on technical projects funded by th
 
 ## :pencil: Guidelines
 
-
+Reports need to: 
+- be based on the [report-template](reports/report-template.md) 
+- be fact-based and as objective as possible 
+- contain no recommendations regarding potential funding decision 
+- list all promised deliveries
 
 ## :mailbox\_with\_mail: Contribute
 

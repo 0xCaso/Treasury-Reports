@@ -7,7 +7,7 @@
 - **Type:** Proposal/Bounties/Tip
 - **Document:** Please, provide a link to the document that describes the project and it's deliveries
 - **Milestone:** Number
-- **Kusama Identity:** Address
+- **On-Chain Identity:** Polkadot/Kusama Address
 - **Previously successfully merged reports:** Link
 
 | Number | Deliverable | Completed | Link |  Notes |
