@@ -6,6 +6,7 @@
 
 - [:wave: Introduction](#wave-introduction)
 - [:pencil: Guidelines](#pencil-guidelines)
+- [:busts\_in\_silhouette: Team](#busts_in_silhouette-team)
 - [:mailbox\_with\_mail: Contribute](#mailbox_with_mail-contribute)
 - [:bulb: Help](#bulb-help)
   - [Additional information](#additional-information)
@@ -24,6 +25,28 @@ Reports need to:
 - be fact-based and as objective as possible 
 - contain no recommendations regarding potential funding decision 
 - list all promised deliveries
+
+## :busts\_in\_silhouette: Team
+
+#### Treasury Reports Committee<!-- omit in toc -->
+
+The committee consists of individuals who have experience in the Polkadot ecosystem, and part of them are also members of the Web3 Foundation Grants team. The committee is responsible for reviewing the reports and making sure that they are in line with the [guidelines](#pencil-guidelines).
+
+In cases where a niche expert opinion is desirable, one of the committee members may request such a review.
+
+- [Nabil Abdellaoui](https://github.com/randombishop)
+- [Santiago Balaguer](https://github.com/SBalaguer)
+- [Aeron Buchanan](https://github.com/aeronbuchanan)
+- [Gautam Dhameja](https://github.com/gautamdhameja)
+- [David Hawig](https://github.com/Noc2)
+- [Diogo Mendonça](https://github.com/dsm-w3f)
+- [Sebastian Müller](https://github.com/semuelle)
+- [Bill Laboon](https://github.com/laboon)
+- [Keegan Quigley](https://github.com/keeganquigley)
+- [Raul Romanutti](https://github.com/rrtti)
+- [Seraya Takahashi](https://github.com/takahser)
+- [Benjamin Weiß](https://github.com/BenWhiteJam)
+- [Gavin Wood](https://github.com/gavofyork)
 
 ## :mailbox\_with\_mail: Contribute
 
