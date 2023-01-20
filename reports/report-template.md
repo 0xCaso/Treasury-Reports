@@ -5,6 +5,7 @@
 
 - **Chain:** Polkadot/Kusama 
 - **Type:** Proposal/Bounties/Tip
+- **Polkassembly Discussion:** Link
 - **Document:** Please, provide a link to the document that describes the project and it's deliveries
 - **Milestone:** Number
 - **On-Chain Identity:** Polkadot/Kusama Address
